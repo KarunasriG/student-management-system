@@ -49,7 +49,7 @@ A simple PHP-based web application to manage students and classes in a school.
 
 3. Update the `database.php` file with your database credentials.
 
-4. Place the project in your web server's root directory (e.g., `htdocs`).
+4. Place the project in your web server's root directory (e.g., `htdocs` or `www`).
 
 5. Open the application in your browser:
    ```
@@ -69,11 +69,8 @@ A simple PHP-based web application to manage students and classes in a school.
 ---
 
 ## Screenshots
-
-- **Home Page**: List of all students.
-- **Add Student Form**: Form to add a new student.
-- **Edit Student Modal**: Modal to edit student details.
-- **Manage Classes Page**: List of all classes with options to add, edit, or delete.
+Shared a document link for screenshots
+https://docs.google.com/document/d/1-qBnpUuflMLM-DnQBvTxx3t88b5cdL4up9tf4CSwokc/edit?usp=sharing
 
 ---
 
